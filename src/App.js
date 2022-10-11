@@ -1,6 +1,5 @@
 import './App.css';
 import Student from './components/Student/Student';
-import Score from './components/Student/Score';
 
 function App() {
 const students = [
