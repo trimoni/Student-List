@@ -67,7 +67,7 @@ const students = [
       <h1>Students</h1>
       {students.map(student =>
       <Student key={student.name} student={student} />
-        )}
+      )}
     </>
   )
 }
